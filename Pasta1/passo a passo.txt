@@ -1,0 +1,19 @@
+No github
+1. Criar o repositório
+2. Vai em Code / Local / copia a URL
+
+No computador
+1. Criar uma pasta
+2. Abrir um prompt
+3. Rodar o comando git clone URL
+4. Alterar os arquivos
+5. git add . 
+6. git commit -m "mensagem"
+7. git push
+
+Ver as alterações
+git status
+
+Atualizar o computador
+1. git fecth origin
+2. git pull
