@@ -17,3 +17,5 @@ git status
 Atualizar o computador
 1. git fecth origin
 2. git pull
+
+Ignorar essa mensagem.
