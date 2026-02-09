@@ -1,3 +1,9 @@
-x = int(input('Digite um número: '))
-y = int(input('Digite outro número: '))
-print(f'O produto de {x} e {y} é {x * y}')
+import os 
+os.system('cls')
+
+num = int(input('Digite um número: '))
+
+if num % 2 == 0:
+    print(f'O número {num} é par.')
+else:
+    print(f'O número {num} é ímpar.')
