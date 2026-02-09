@@ -1,9 +1,8 @@
 import os 
 os.system('cls')
 
-num = int(input('Digite um número: '))
+renda = float(input('Indique sua renda mensal: '))
+parcela = float(input('Indique o valor da parcela: '))
 
-if num % 2 == 0:
-    print(f'O número {num} é par.')
-else:
-    print(f'O número {num} é ímpar.')
+if parcela > renda * 0.3:
+    print( )
